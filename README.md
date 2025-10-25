@@ -1,5 +1,5 @@
 # Update Firmware
 
 ```
-wget https://raw.githubusercontent.com/medvedicos/Install_MiSa/refs/heads/main/install_misa.sh && chmod 777 install_misa.sh && sh install_misa.sh
+wget https://raw.githubusercontent.com/medvedicos/Update-Firmware/refs/heads/main/install_up.sh && chmod 777 install_up.sh && sh install_up.sh
 ```
